@@ -1,0 +1,1 @@
+A basic survivor.io game
